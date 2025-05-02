@@ -12,7 +12,7 @@
 
 ## 🐍 GitHub Contribution Snake
 
-![snake gif](https://github.com/ahmeterenyasar/ahmeterenyasar/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://raw.githubusercontent.com/ahmeterenyasar/snk/output/github-contribution-grid-snake.svg)
 
 ---
 
