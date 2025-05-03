@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Ahmet Eren Yaşar
+# Hi, I'm Ahmet Eren Yaşar
 
 ---
 
