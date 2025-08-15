@@ -8,6 +8,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmeterenyasar&layout=compact&theme=tokyonight)
 
+[![ayasar's 42 stats](https://badge.mediaplus.ma/binary/ayasar?1337Badge=off&UM6P=off)](https://github.com/oakoudad/badge42)
 
 ![snake gif](https://raw.githubusercontent.com/ahmeterenyasar/snk/manual-run-output/only-svg/github-contribution-grid-snake-dark.svg)
 
