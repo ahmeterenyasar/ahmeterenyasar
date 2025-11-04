@@ -23,7 +23,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmeterenyasar&theme=dracula&hide_border=true" alt="ahmeterenyasar's Streak" />
+  <img src="https://streak-stats.demolab.com?user=ahmeterenyasar&theme=dracula&hide_border=true" alt="ahmeterenyasar's Streak" />
 </p>
 
 <p align="center">
