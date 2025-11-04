@@ -12,7 +12,7 @@
 
 ### 💻 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,swift,cs,cpp,git,github,vscode,linux" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=flutter,swift,c,cpp,git,github,vscode,linux" alt="Tech Stack" />
 </p>
 
 ---
@@ -53,7 +53,3 @@
 </p>
 
 ---
-
-<p align="center">
-  <i>"Building things that make life simpler — one app at a time."</i>
-</p>
