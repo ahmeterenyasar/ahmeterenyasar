@@ -48,7 +48,7 @@
 ### 👀 Profile Views
 <p align="center">
   <a href="https://u8views.com/github/ahmeterenyasar">
-    <img src="https://u8views.com/api/v1/github/profiles/101502124/views/total-count.svg" alt="Profile Views" />
+    <img src="https://u8views.com/api/v1/github/profiles/101502124/views/day-week-month-total-count.svg" alt="Profile Views" />
   </a>
 </p>
 
