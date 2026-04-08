@@ -17,21 +17,6 @@
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmeterenyasar&theme=dracula&show_icons=true&hide_border=true&count_private=true" alt="ahmeterenyasar's Stats" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ahmeterenyasar&theme=dracula&hide_border=true" alt="ahmeterenyasar's Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmeterenyasar&theme=dracula&show_icons=true&hide_border=true&layout=compact" alt="ahmeterenyasar's Top Languages" />
-</p>
-
----
-
 ### 📫 Connect with Me
 <p align="center">
   <a href="https://www.linkedin.com/in/ahmet-eren-yasar/" target="_blank">
