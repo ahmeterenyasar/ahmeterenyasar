@@ -12,7 +12,7 @@
 
 ### 💻 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,swift,c,cpp,git,github,vscode,linux" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=flutter,c,cpp,git,github,vscode,linux" alt="Tech Stack" />
 </p>
 
 ---
@@ -25,6 +25,10 @@
   &nbsp;&nbsp;
   <a href="https://www.instagram.com/erenyasarw/" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" width="40" height="40" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://letterboxd.com/erenyasar/" target="_blank">
+    <img src="./letterboxd.png" width="40" height="40" alt="Letterboxd" />
   </a>
 </p>
 
