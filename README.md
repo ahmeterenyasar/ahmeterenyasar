@@ -19,15 +19,9 @@
 
 ### 📫 Connect with Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/ahmet-eren-yasar/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="48" height="48" style="vertical-align: middle; margin: 0 8px;" alt="LinkedIn" />
-  </a>
-  <a href="https://www.instagram.com/erenyasarw/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" width="48" height="48" style="vertical-align: middle; margin: 0 8px;" alt="Instagram" />
-  </a>
-  <a href="https://letterboxd.com/erenyasar/" target="_blank">
-    <img src="./letterboxd.png" width="48" height="48" style="vertical-align: middle; margin: 0 8px;" alt="Letterboxd" />
-  </a>
+  <a href="https://www.linkedin.com/in/ahmet-eren-yasar/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" width="48" height="48" alt="LinkedIn" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://www.instagram.com/erenyasarw/" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" width="48" height="48" alt="Instagram" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://letterboxd.com/erenyasar/" target="_blank"><img src="./letterboxd.png" width="48" height="48" alt="Letterboxd" /></a>
 </p>
 
 ---
